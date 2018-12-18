@@ -1,0 +1,13 @@
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+controlerf302cb\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+controlerf302cb\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+controlerf302cb\port.o: ../Inc/FreeRTOSConfig.h
+controlerf302cb\port.o: ../Inc/main.h
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+controlerf302cb\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
